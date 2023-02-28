@@ -1,6 +1,6 @@
 # Guia-de-Pelagem-de-gatos
 Projeto feito no Curso Online Eu ProgrAmo | FE2 | Turma 03 da Programaria
-h1 align="center">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/88461178/214158133-cecc9c01-4925-458e-a5da-bc33452576f1.png" alt="logo" width="400">
 </h1>
 
