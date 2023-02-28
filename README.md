@@ -33,7 +33,7 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 
 - Dando seguimento ao curso e com base no projeto final, finalizei com a seguinte proposta:           
 
-*Resolvir falar de mim, das coisas que eu gosto e meus hobbies favoritos*!
+*Como boa gateira, resolvi fazer um gui de pelagens de gatos. Espero que gostem ahaha*!
 
 <h2 align="center">Ilustração do Projeto</h2>
 
