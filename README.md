@@ -29,7 +29,7 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
  
  ### Projeto Original:
  
-  [GitHub](https://mizarocha.github.io/Dicionario/)
+  [GitHub](https://euprogramo.github.io/dicionario-mulheresnegras//)
 
 - Dando seguimento ao curso e com base no projeto final, finalizei com a seguinte proposta:           
 
