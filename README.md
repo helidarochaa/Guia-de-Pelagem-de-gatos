@@ -38,14 +38,14 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 <h2 align="center">Ilustração do Projeto</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88461178/214146286-c27fa84b-bccf-4e43-9155-c54dd1a959fc.jpg">
+<img src="./img/imagem-do-site">
 </div>
 
 <h3 align="center">
   Pages: https://mizarocha.github.io/Diario/</h3>
 
 
-<h3 align="center"> Autora: Artemiza Rocha </h3>   
+<h3 align="center"> Autora: Helida Rocha </h3>   
 
 <div align="center">
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
