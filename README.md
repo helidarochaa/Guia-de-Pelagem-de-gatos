@@ -38,7 +38,7 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 <h2 align="center">Ilustração do Projeto</h2>
 
 <div align="center">
-<img src="./img/imagem-do-site">
+<img src="./img/imagem-do-site.jpg">
 </div>
 
 <h3 align="center">
