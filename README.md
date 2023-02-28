@@ -42,7 +42,7 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 </div>
 
 <h3 align="center">
-  Pages: https://mizarocha.github.io/Diario/</h3>
+  Pages: https://helidarochaa.github.io/Guia-de-Pelagem-de-gatos/</h3>
 
 
 <h3 align="center"> Autora: Helida Rocha </h3>   
