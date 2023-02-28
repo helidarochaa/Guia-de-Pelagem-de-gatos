@@ -48,8 +48,8 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 <h3 align="center"> Autora: Helida Rocha </h3>   
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helida-rocha-69b844245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/helidarochaa" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
 
 <h4 align="center">Desenvolvido com 💜 </h4>
